@@ -1,5 +1,7 @@
 ﻿using Prova3Bimestre;
 using System;
+using System.Text.Encodings.Web;
+
 class Program
 {
     static void Main(string[] args)
@@ -10,6 +12,7 @@ class Program
 
         while (true)
         {
+            
             Console.Clear();
             Console.WriteLine("Bem-vindo!!");
             Console.WriteLine("\nQual o tipo do funcionario que você deseja cadastrar?\n1-Médico.\n2-Administração.\n3-Outro.\n4-imprimir funcionarios acima de 2000.\n\n5-Sair.");
@@ -23,30 +26,31 @@ class Program
                     Console.WriteLine("Medicos:");
                     foreach (Medico medico1 in listaMedico)
                     {
-                        if (medico1.salario > 2000)
+                        if (medico1.Salario > 2000)
                         {
-                            Console.WriteLine($"nome: {medico1.nome}");
+                            Console.WriteLine($"\nnome: {medico1.Nome}");
                             Console.WriteLine($"salario: {(medico1.Salario).ToString("C2")}");
                         }
                     }
-                    Console.WriteLine("Administração:");
+                    Console.WriteLine("\nAdministração:");
                     foreach (Administrativo adm in listaAdministrativo)
                     {
-                        if (adm.salario > 2000)
+                        if (adm.Salario > 2000)
                         {
-                            Console.WriteLine($"nome: {adm.nome}");
+                            Console.WriteLine($"\nnome: {adm.Nome}");
                             Console.WriteLine($"salario: {(adm.Salario).ToString("C2")}");
                         }
                     }
-                    Console.WriteLine("Outros:");
+                    Console.WriteLine("\nOutros:");
                     foreach (Funcionario funcionario1 in listaFuncionario)
                     {
-                        if (funcionario1.salario > 2000)
+                        if (funcionario1.Salario > 2000)
                         {
-                            Console.WriteLine($"nome: {funcionario1.nome}");
-                            Console.WriteLine($"salario: {(funcionario1.salario).ToString("C2")}");
+                            Console.WriteLine($"\nnome: {funcionario1.Nome}");
+                            Console.WriteLine($"salario: {(funcionario1.Salario).ToString("C2")}");
                         }
                     }
+                    
                 }
                 Console.WriteLine("Digite seu nome: ");
                 string nome = Console.ReadLine();

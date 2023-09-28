@@ -8,21 +8,21 @@ namespace Prova3Bimestre
 {
     internal class Funcionario
     {
-        public string nome {  get; set; }
-        public string cpf { get; set; }
-        public string matricula { get; set; }
-        public DateTime dataNascimento { get; set; }
-        public string sexo { get; set; }
-        public double salario { get; set; }
+        public string Nome {  get; set; }
+        public string Cpf { get; set; }
+        public string Matricula { get; set; }
+        public DateTime DataNascimento { get; set; }
+        public string Sexo { get; set; }
+        public double Salario { get; set; }
 
         public Funcionario(string nome, string cpf, string matricula, DateTime dataNascimento, string sexo, double salario)
         {
-            this.nome = nome;
-            this.cpf = cpf;
-            this.matricula = matricula;
-            this.dataNascimento = dataNascimento;
-            this.sexo = sexo;
-            this.salario = salario;
+            Nome = nome;
+            Cpf = cpf;
+            Matricula = matricula;
+            DataNascimento = dataNascimento;
+            Sexo = sexo;
+            Salario = salario;
         }
     }
 }
