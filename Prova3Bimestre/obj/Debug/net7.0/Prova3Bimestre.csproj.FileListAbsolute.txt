@@ -1,0 +1,15 @@
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\bin\Debug\net7.0\Prova3Bimestre.exe
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\bin\Debug\net7.0\Prova3Bimestre.deps.json
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\bin\Debug\net7.0\Prova3Bimestre.runtimeconfig.json
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\bin\Debug\net7.0\Prova3Bimestre.dll
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\bin\Debug\net7.0\Prova3Bimestre.pdb
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.AssemblyInfo.cs
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.dll
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\refint\Prova3Bimestre.dll
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.pdb
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\Prova3Bimestre.genruntimeconfig.cache
+C:\Users\2022102020032\source\repos\Prova3Bimestre\Prova3Bimestre\obj\Debug\net7.0\ref\Prova3Bimestre.dll
